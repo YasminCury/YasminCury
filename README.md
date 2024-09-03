@@ -14,7 +14,7 @@
 
 
 ### 🖥️ Tecnologias e Ferramentas: 
-<img width="200px" align="right" src="https://copilot.microsoft.com/images/create/inteligencia-artificial-baseada-em-ciencia-de-dado/1-66d68e75a8944cd1a0544292512c947b?id=IvhVwOV3bBY4naTcbX4QxA%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG4.o4jIWmVzmQDOxstchgC1&skey=bACk-eDGtn2dUA0sudDc4mu3BsXnODGGW-NdG1hOiyM&FORM=SYDBIC">
+<img width="200px" align="right" src="![image] https://github.com/user-attachments/assets/7b9ff91d-eb90-4bb1-943a-0d46207d6c7e">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
