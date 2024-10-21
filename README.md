@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on tecnology group and tecnology group studants.
 - 📷 I share my experiences with career transition, mentoring with study tips and technology on Whatsaap.
 - 🤔 I'm currently developing my own projects.
-- 📫 You can contact me by email at yasmincury111@gmail.com and you can also see my already developed projects, which are available here in the repositories. =)
+- 📫 You can contact me by email at yasmincury0101@gmail.com and you can also see my already developed projects, which are available here in the repositories. =)
 - ☕🎮 I only wake up with tea and cappuccino, I love games and I'm good at them.
 - 😄 Pronouns: She 
 - ⚡ Fun fact: I studied AI at some point and I have knowledge in computer support and maintenance, I have knowledge in social media and marketing in addition to business administration.
